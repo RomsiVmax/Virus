@@ -1,2 +1,2 @@
 # Virus
-This is a virus from softonic please don't copyright strike me and don't download the file 
+Here are virusses. They are here for educational purposes only. Don't install them on computers of persons that haven't explicitly said that they want it. And for you're own hardware: Only install the virusses if you really need to. I (the owner of the viruses) wont replace or pay for damaged or bricked devices. The same for any other damage done to something or somebody by this virusses. It should be safe to install the virusses in a virtual machine but i cannot guarantee.
